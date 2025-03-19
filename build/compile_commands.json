@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/PERSONAL/video-edit/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/schmedit.dir/src/main.cpp.o -c /home/PERSONAL/video-edit/src/main.cpp",
+  "file": "/home/PERSONAL/video-edit/src/main.cpp",
+  "output": "CMakeFiles/schmedit.dir/src/main.cpp.o"
+}
+]
